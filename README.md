@@ -51,3 +51,18 @@ When you look at the breakout by lots the numbers are inline with the overall nu
 ![image](https://user-images.githubusercontent.com/101777677/178163665-f11996af-8d9f-404a-b158-604bf374f85f.png)
 
 # Deliverable3
+
+## Test Results
+
+![image](https://user-images.githubusercontent.com/101777677/178163706-2f9e6c14-5f86-4010-961b-9417b82746cf.png)
+
+![image](https://user-images.githubusercontent.com/101777677/178163709-ea26fdae-fe20-4ed5-8b3f-89f4f4d4f763.png)
+
+![image](https://user-images.githubusercontent.com/101777677/178163713-64de3ac8-ca44-4966-be74-db432c4348af.png)
+
+# Deliverable4
+
+**1.	What metric or metrics are you going to test?** – We should also test the following  safety rating, horsepower, and highway fuel efficiency, to make sure we’re addressing a wider range of consumers concerns. 
+**2.	What is the null hypothesis or alternative hypothesis?** - The null hypothesis would mean that the safety rating would be zero. The alternative hypothesis would mean the safety rating would not equal zero. 
+**3.	What statistical test would you use to test the hypothesis? And why?** – One we could use would be the multiple linear regression statistical summary because it would identify various outcomes and how they could impact the overall safety ratings. 
+**4.	What data is needed to run the statistical test?** – You would want to use a random sample looking at the MechaCar along with some of their competitors and make sure you’re comparing the same metrics.
